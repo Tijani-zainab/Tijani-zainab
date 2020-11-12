@@ -1,4 +1,4 @@
-<img https://github.com/Tijani-zainab/Tijani-zainab/issues/3#issue-741674231 alt="Tijani Zainab">
+<img src="https://github.com/Tijani-zainab/Tijani-zainab/issues/3#issue-741674231" alt="Tijani Zainab">
 
 # Write | Code❤️ | Music
 I love art, music and a little bit of coding, haha.<br>
