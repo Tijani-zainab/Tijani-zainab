@@ -10,7 +10,7 @@ I'm a Front end Developer, I am primarily focused on writing clean, elegant and 
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, Reactjs, and Node js.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Front end Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://docs.google.com/document/d/e/2PACX-1vRoR4H8QrjXXy8nTH4WZ9VXINHUITZsbvQVlkWXoYkOWS7a_70iLkB2Wrai0M_GVN7I0TumyU10ONiA/pub) and contact me by emailing jani.tijj@gmail.com.
 
 ---
