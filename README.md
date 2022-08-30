@@ -17,3 +17,5 @@ I'm a Front end Developer, I am primarily focused on writing clean, elegant and 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tijani-zainab&show_icons=true&include_all_commits=true&hide_border=true" alt="Zainab's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tijani-zainab&langs_count=8&layout=compact&hide_border=true" alt="Zainab's GitHub stats" /> |
 | ------------- | ------------- |
+
+Hey 👋🏾, If you like my work/future work here. you can now buy me a [coffee!](https://www.buymeacoffee.com/janitijj) 😉
