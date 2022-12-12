@@ -7,7 +7,7 @@ I'm a Front end Developer, I am primarily focused on writing clean, elegant and 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 💡 Fun fact: I'm an AltSchool Africa Student [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class 2022.
+- 💡 Fun fact: I'm an AltSchool Africa student [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class 2022.
 - 🌱 Member [waterthetress](https://waterthetrees.com/) dev.
 - 😊 I’m open to opportunities for open source projects, hackathons, internships, and frontend opportunities.
 - 💼 Job interests: Software Engineer, frontend Engineer, or UI Engineer (Intern or Junior level).
