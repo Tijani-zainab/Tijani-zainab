@@ -9,7 +9,7 @@ I'm a Software Developer, I am primarily focused on writing clean, elegant and e
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm an AltSchool Africa student [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class 2022.
 - 🌱 Member [waterthetress](https://waterthetrees.com/) dev.
-- 😊 I’m open to opportunities for open source projects, hackathons, internships, and frontend opportunities.
+- 😊 I am open to new opportunities and welcome the chance to contribute to open source projects, hackathons, internships, and frontend opportunities.
 - 💼 Job interests: Software Engineer, frontend Engineer, or UI Engineer.
 - 📫 You can [view my resume](https://docs.google.com/document/d/1q6RtoosampY-mmqqmU0-ovAeN7w46khLv4SgA92MKvA/edit?usp=sharing) and contact me by emailing jani.tijj@gmail.com.
 
