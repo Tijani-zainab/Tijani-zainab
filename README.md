@@ -8,7 +8,7 @@ I'm a Software Developer, I am primarily focused on writing clean, elegant and e
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I occasionally write articles on various topics, you can find them on my [blog](https://zainab-tijani.hashnode.dev/)
--  I'm an AltSchool Africa student [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class 2022.
+-  I'm also an AltSchool Africa student [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class 2022.
 - 🌱 Member [waterthetress](https://waterthetrees.com/) dev.
 - 😊 I am open to new opportunities and welcome the chance to contribute to open source projects, hackathons, internships, and frontend opportunities.
 - 💼 Job interests: Software Engineer, frontend Engineer, or UI Engineer.
