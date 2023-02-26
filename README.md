@@ -12,7 +12,7 @@ I'm a Software Developer, I am primarily focused on writing clean, elegant and e
 - 🌱 Member [waterthetress](https://waterthetrees.com/) dev.
 - 😊 I am open to new opportunities and welcome the chance to contribute to open source projects, hackathons, and frontend opportunities.
 - 💼 Job interests: Software Engineer, frontend Engineer, or UI Engineer.
-- 📫 You can [view my resume](https://docs.google.com/document/d/1q6RtoosampY-mmqqmU0-ovAeN7w46khLv4SgA92MKvA/edit?usp=sharing) and contact me by emailing jani.tijj@gmail.com.
+- 📫 You can [view my resume](https://docs.google.com/document/d/1StbWedybdzequyJTt3h2WQumbx_M22S2EPPfH5snCnM/edit?usp=sharing) and contact me by emailing jani.tijj@gmail.com.
 
 ---
 
