@@ -12,7 +12,7 @@ I'm a Software Devloper, I am primarily focused on writing clean, elegant and ef
 - 🌱 Member [waterthetress](https://waterthetrees.com/) dev.
 - 😊 I am open to new opportunities and welcome the chance to contribute to open source projects, hackathons, and frontend opportunities.
 - 💼 Job interests: Software Engineer, frontend Engineer, or UI Engineer.
-- 📫 You can [view my resume](bit.ly/Zainab-Tijani) and contact me by emailing jani.tijj@gmail.com.
+- 📫 You can [view my resume](https://bit.ly/zainab-resume) and contact me by emailing jani.tijj@gmail.com.
 
 
 ---
