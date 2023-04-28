@@ -10,7 +10,7 @@ I'm a Software Devloper, I am primarily focused on writing clean, elegant and ef
 - 💡 Fun fact: I occasionally write articles on various topics, you can find them on my [blog](https://zainab-tijani.hashnode.dev/)
 -  I'm also an AltSchool Africa student [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class 2022.
 - 🌱 Member [waterthetress](https://waterthetrees.com/) dev.
-- 😊 I am open to new opportunities and welcome the chance to contribute to open source projects, hackathons, and frontend opportunities.
+- 😊 I am open to opportunities and welcome the chance to contribute to open source projects, hackathons, and frontend opportunities.
 - 💼 Job interests: Software Engineer, frontend Engineer, or UI Engineer.
 - 📫 You can [view my resume](https://bit.ly/zainab-resume) and contact me by emailing jani.tijj@gmail.com.
 
