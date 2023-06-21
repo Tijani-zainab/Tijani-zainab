@@ -3,7 +3,7 @@
 [![Website Badge](https://img.shields.io/badge/zainab's-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://jani.netlify.app)](https://jani.netlify.app) [![Linkedin Badge](https://img.shields.io/badge/-zainab's-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zainabtijani)](https://www.linkedin.com/in/tijani-zainab) [![Twitter Badge](https://img.shields.io/badge/-zainab-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/jani_tijj)](https://twitter.com/jani_tijj)
 
 
-I'm a Software Devloper, I am primarily focused on writing clean, elegant and efficient code, I am proficient in JavaScript/Es6, React JS. with knowledge of WordPress, user interface, testing, and debugging processes.
+Software Devloper and Technical Writer, I am primarily focused on writing clean, elegant and efficient software, I am proficient in JavaScript/Es6, React JS. with knowledge of WordPress, user interface, testing, and debugging processes.
 
 **Here's a quick summary about me**:
 
