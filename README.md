@@ -11,8 +11,8 @@ Software Devloper and Technical Writer, I am primarily focused on writing clean,
 -  I'm also an AltSchool Africa student [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class 2022.
 - 🌱 Member [waterthetress](https://waterthetrees.com/) dev.
 - 😊 I am open to opportunities and welcome the chance to contribute to open source projects, hackathons, and frontend opportunities.
-- 💼 Job interests: Software Engineer, frontend Engineer, or UI Engineer.
-- 📫 You can [view my resume](https://bit.ly/Zainab-Tijani) and contact me by emailing jani.tijj@gmail.com.
+- 💼 Job interests: Software Engineer, frontend Engineer.
+- 📫 You can [view my resume](https://docs.google.com/document/d/1T5HE9cZpQLjkvIMlDakopZNaCYk1_P5JhZWWdzUcLlw/edit?usp=sharing) and contact me by emailing jani.tijj@gmail.com.
 
 
 ---
