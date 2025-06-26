@@ -1,4 +1,4 @@
-<h1 align='center'>Hi 👋🏾, I'm Zainab Tijani </h1>
+<h1 align='center'>Hi There 👋🏾, I'm Zainab Tijani </h1>
 
 [![Website Badge](https://img.shields.io/badge/zainab's-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://jani.netlify.app)](https://jani.netlify.app) [![Linkedin Badge](https://img.shields.io/badge/-zainab's-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zainabtijani)](https://www.linkedin.com/in/tijani-zainab) [![Twitter Badge](https://img.shields.io/badge/-zainab-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/jani_tijj)](https://twitter.com/jani_tijj)
 
